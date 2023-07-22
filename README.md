@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on React Projects<br><br>- 🌱 I’m currently learning ReactJs,NodeJS<br><br>- 💬 Ask me about ReactJs and related Technologies<br><br>-  📫 - How to reach me **hariharen107@gmail.com**<br><br>- 📄 TechStack : MERN
+- 🔭 I’m currently working on React Projects<br><br>- 🌱 I’m currently learning ReactJS,NodeJS<br><br>- 💬 Ask me about ReactJs and related Technologies<br><br>-  📫 - How to reach me **hariharen107@gmail.com**<br><br>- 📄 TechStack : MERN
 
 
 
